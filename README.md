@@ -7,7 +7,7 @@
 - **E-mail:** a.bilgehan.serce@gmail.com
 - **Linkedin:** https://www.linkedin.com/in/ahmet-bilgehan-serçe-568584243/
 
-More to come... I'm glad if you red it through.
+More to come... Thank you for reading it through.
 <!---
 SparrowHere/SparrowHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
