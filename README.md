@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on **Python Applications** and **engineering-based projects**.
 - 📫 My socials are as follows:
 - **E-mail:** a.bilgehan.serce@gmail.com
-- **Linkedin:** https://www.linkedin.com/in/ahmet-bilgehan-serçe-568584243/
 
 More to come... Thank you for reading it through.
 <!---
