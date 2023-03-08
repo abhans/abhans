@@ -2,7 +2,7 @@
 - 👋 Hi, I’m **@SparrowHere** in other words **Ahmet Bilgehan**
 - 👀 I’m interested in **music**, **video games**, **animation** and **coding**.
 - 🌱 I’m currently learning **AI/DL Applications with Python**.
-- 💞️ I’m looking to collaborate on **Python Applications** and **engineering-based projects**.
+- 🤝 I’m looking to collaborate on **Python Applications** and **engineering-based projects**.
 - 📫 My socials are as follows:
 - **E-mail:** a.bilgehan.serce@gmail.com
 
