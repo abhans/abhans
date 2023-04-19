@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **AI/DL Applications with Python**.
 - 🤝 I’m looking to collaborate on **Python Applications** and **engineering-based projects**.
 - 📫 My socials are as follows:
-- **E-mail:** a.bilgehan.serce@gmail.com
+-   **E-mail:** a.bilgehan.serce@gmail.com
 
 More to come... Thank you for reading it through.
 <!---
