@@ -1,5 +1,5 @@
 ### Personal Information
-- 👋 Hi, I’m **@SparrowHere** in other words **Ahmet Bilgehan**
+- 👋 Hi, I’m **Ahmet Bilgehan** from Turkey.
 - 👀 I’m interested in **music**, **video games**, **animation** and **coding**.
 - 🌱 I’m currently learning **AI/DL Applications with Python**.
 - 🤝 I’m looking to collaborate on **Python Applications** and **engineering-based projects**.
