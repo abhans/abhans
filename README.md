@@ -2,7 +2,7 @@
 - 👋 Hi, I’m **Ahmet Bilgehan** from Turkey.
 - 👀 I’m interested in **music**, **PLC's**, **artificial intelligence** and **programming**.
 - 🌱 I’m currently learning **AI/DL Applications with Python**.
-- 🤝 I’m looking to collaborate on **ML/DL Applications** and **PLC automation projects**.
+- 🤝 I’m looking to collaborate on **ML/DL Applications** and **PLC Automation Projects**.
 
 More to come... Thank you for reading it through.
 <!---
