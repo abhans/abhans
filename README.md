@@ -1,10 +1,8 @@
 ### Personal Information
 - 👋 Hi, I’m **Ahmet Bilgehan** from Turkey.
-- 👀 I’m interested in **music**, **engineering**, **animation** and **coding**.
+- 👀 I’m interested in **music**, **PLC's**, **artificial intelligence** and **programming**.
 - 🌱 I’m currently learning **AI/DL Applications with Python**.
-- 🤝 I’m looking to collaborate on **Python Applications** and **engineering-based projects**.
-- 📫 My socials are as follows:
-  - **E-mail:** a.bilgehan.serce@gmail.com
+- 🤝 I’m looking to collaborate on **Python Applications** and **PLC automation projects**.
 
 More to come... Thank you for reading it through.
 <!---
