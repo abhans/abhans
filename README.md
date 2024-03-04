@@ -1,8 +1,7 @@
 ### Personal Information
-- 👋 Hi, I’m **Ahmet Bilgehan** from Turkey.
-- 👀 I’m interested in **music**, **PLC's**, **artificial intelligence** and **programming**.
-- 🌱 I’m currently learning **AI/DL Applications with Python**.
-- 🤝 I’m looking to collaborate on **ML/DL Applications** and **PLC Automation Projects**.
+- I’m **Ahmet Bilgehan** from Turkey.
+- I’m interested in **music**, **image processing**, **embedded ğrpgramming**, **artificial intelligence** and **programming**.
+- I’m looking to collaborate on **ML/DL Applications** and **Computer Vision Systems**.
 
 More to come... Thank you for reading it through.
 <!---
