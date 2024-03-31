@@ -1,6 +1,6 @@
 ### Personal Information
 - I’m **Ahmet Bilgehan** from Turkey.
-- I’m interested in **music**, **image processing**, **embedded ğrpgramming**, **artificial intelligence** and **programming**.
+- I’m interested in **image processing**, **embedded programming**, **artificial intelligence** and **automation technologies**.
 - I’m looking to collaborate on **ML/DL Applications** and **Computer Vision Systems**.
 
 More to come... Thank you for reading it through.
