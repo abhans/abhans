@@ -22,8 +22,4 @@
 **Tools :** ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=flat)
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?logo=labview&logoColor=000&style=flat)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SparrowHere&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=SparrowHere&icon=5&color=0)](https://visitcount.itsvg.in)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
