@@ -1,5 +1,5 @@
 # Hi, I'm `Bilgehan`
-👤 **`Passionate`** and **`self-motivated`** EEE<br>ℹ️ Knowledge on several fields including **`machine learning`**, **`data analysis`**, **`computer vision`** and **`embedded systems`**.<br>🐈 Strong **`curiosity`** that killed the cat.<br>🏆 **`Highly-motivated`** with valuable set of skills.<br>🎯 Looking to colaborate if you are willing to compete on building **`future-proof technologies`** and **`encompassing processes`**.
+👤 **`Passionate`** and **`self-motivated`** EEE<br>ℹ️ Knowledge on several fields including **`machine learning`**, **`computer vision`** and **`embedded systems`**.<br>🐈 Strong **`curiosity`** that killed the cat.<br>🏆 **`Highly-motivated`** with valuable set of skills.<br>🎯 Looking to colaborate if you are willing to compete on building **`future-proof technologies`** and **`encompassing processes`**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abserce/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19786627/sparrowhere) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhans_)
 
